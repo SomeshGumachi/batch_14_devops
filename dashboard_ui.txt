@@ -1,4 +1,3 @@
 person A has started creating ui
 person A has completed ui
-person B fixed some bugs
 person A has fixed bugs
